@@ -11,7 +11,7 @@ import javafx.scene.shape.Line;
 import javafx.stage.Stage;
 
 
-public class Foothill extends Application {
+public class Koch extends Application {
 
    // main function
    public static void main(String[] args) 
